@@ -8,6 +8,8 @@
 - iOSApp use testKlib build Products testKlib.framework
 
 only FA  is Successed
+
 open FB  is Failed
+
 
 
