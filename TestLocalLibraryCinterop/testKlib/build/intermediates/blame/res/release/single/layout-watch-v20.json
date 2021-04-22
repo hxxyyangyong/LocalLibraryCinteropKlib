@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/27d2ed869173d19754aa28cb998749d1/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/27d2ed869173d19754aa28cb998749d1/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

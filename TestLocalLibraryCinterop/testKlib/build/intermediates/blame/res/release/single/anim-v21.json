@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/res/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/res/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    }
+]

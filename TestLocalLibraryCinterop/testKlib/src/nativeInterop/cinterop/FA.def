@@ -1,0 +1,5 @@
+language = Objective-C
+package = com.yy.FA
+headers = /Users/yangyong/Work/TestLocalLibraryCinterop/extframework/FA.framework/Headers/AAA.h
+libraryPaths = /Users/yangyong/Work/TestLocalLibraryCinterop/extframework
+staticLibraries = FA.framework

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.example.testlocallibrarycinterop.testKlib",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "testKlib-release.aar",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.example.testlocallibrarycinterop.testKlib",
+        "split": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/layout-v26/abc_screen_toolbar.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/27d2ed869173d19754aa28cb998749d1/appcompat-1.1.0/res/layout-v26/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/layout-v26/mtrl_calendar_month.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/res/layout-v26/mtrl_calendar_month.xml"
+    }
+]

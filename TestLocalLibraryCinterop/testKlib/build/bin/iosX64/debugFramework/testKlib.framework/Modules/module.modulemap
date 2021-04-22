@@ -1,0 +1,6 @@
+framework module testKlib {
+    umbrella header "testKlib.h"
+
+    export *
+    module * { export * }
+}

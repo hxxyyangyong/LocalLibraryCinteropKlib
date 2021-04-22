@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<projectStructure>
+    <formatVersion>0.3</formatVersion>
+    <variants>
+        <variant>
+            <name>iosX64-api</name>
+            <sourceSet>commonMain</sourceSet>
+        </variant>
+    </variants>
+    <sourceSets>
+        <sourceSet>
+            <name>commonMain</name>
+            <moduleDependency>org.jetbrains.kotlin:kotlin-stdlib-common</moduleDependency>
+            <binaryLayout>klib</binaryLayout>
+        </sourceSet>
+    </sourceSets>
+</projectStructure>

@@ -1,0 +1,2 @@
+com/example/testlocallibrarycinterop/testKlib/BuildConfig.java
+ com.example.testlocallibrarycinterop.testKlib.BuildConfig

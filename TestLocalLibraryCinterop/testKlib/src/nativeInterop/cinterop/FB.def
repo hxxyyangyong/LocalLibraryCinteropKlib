@@ -1,0 +1,5 @@
+language = Objective-C
+package = com.yy.FB
+headers = /Users/yangyong/Work/TestLocalLibraryCinterop/extframework/FB.framework/Headers/BBB.h
+libraryPaths = /Users/yangyong/Work/TestLocalLibraryCinterop/extframework
+staticLibraries = FB.framework

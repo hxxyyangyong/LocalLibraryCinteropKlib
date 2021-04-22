@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/res/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/res/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/3b3dea136f87e2983324419e91e12657/material-1.2.1/res/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    }
+]

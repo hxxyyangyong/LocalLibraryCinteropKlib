@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/555e15e318e075f74a56115027ea8dff/core-1.2.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/555e15e318e075f74a56115027ea8dff/core-1.2.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/555e15e318e075f74a56115027ea8dff/core-1.2.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yangyong/Work/TestLocalLibraryCinterop/testKlib/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/yangyong/.gradle/caches/transforms-2/files-2.1/555e15e318e075f74a56115027ea8dff/core-1.2.0/res/layout-v21/notification_action.xml"
+    }
+]

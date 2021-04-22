@@ -1,0 +1,6 @@
+framework module FA {
+  umbrella header "FA.h"
+
+  export *
+  module * { export * }
+}
